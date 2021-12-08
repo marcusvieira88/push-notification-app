@@ -35,6 +35,6 @@ yarn android
 
 ### References
 
-https://medium.com/tech-iiitg/push-notifications-in-a-react-native-application-using-firebase-node-js-and-express-js-67b3391b6c25
-https://rnfirebase.io/messaging/usage/installation/android
-https://www.npmjs.com/package/firebase-admin
+- https://medium.com/tech-iiitg/push-notifications-in-a-react-native-application-using-firebase-node-js-and-express-js-67b3391b6c25
+- https://rnfirebase.io/messaging/usage/installation/android
+- https://www.npmjs.com/package/firebase-admin
